@@ -1,0 +1,13 @@
+.header {
+    background-image: url('octopus.jpg'); 
+    background-size: cover;
+    font-size: 48px;
+    color:azure;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+    width: 98%;
+    height: 400px;
+    margin-top: -120px;
+    
+}
+

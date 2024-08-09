@@ -1,0 +1,11 @@
+.contact {
+    color:azure;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 15px;
+}
+
+.contact h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
